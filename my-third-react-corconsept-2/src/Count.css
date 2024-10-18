@@ -1,0 +1,17 @@
+.countDownBox {
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid yellowgreen;
+  border-radius: 15px;
+}
+
+.AddedButton {
+  margin-right: 10px;
+  color: white;
+  background-color: yellowgreen;
+}
+.RemoveButton {
+  margin-left: 10px;
+  color: white;
+  background-color: yellowgreen;
+}

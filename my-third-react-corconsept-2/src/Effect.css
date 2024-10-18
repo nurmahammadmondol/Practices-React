@@ -1,0 +1,15 @@
+.AllBox {
+  border: 5px solid yellowgreen;
+  border-radius: 15px;
+  /* margin: 20px; */
+}
+
+.InnerBox {
+  padding: 10px;
+  border: 5px solid yellowgreen;
+  border-radius: 15px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
