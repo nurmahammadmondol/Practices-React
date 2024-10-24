@@ -1,0 +1,50 @@
+.countryContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.country {
+  border: 5px solid yellowgreen;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.Flags {
+  width: 100%;
+  height: 220px;
+  border: 1px solid gray;
+}
+
+.Button {
+  font-size: 12px;
+  color: white;
+  margin: 10px;
+  background-color: black;
+}
+
+.VisitedContainer {
+  width: 100%;
+  height: 300px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.VisitedFlagsContainer {
+  width: 100%;
+  height: 300px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+}
+
+.VisitedFlagsContainer img {
+  width: 100%;
+  height: 100px;
+}

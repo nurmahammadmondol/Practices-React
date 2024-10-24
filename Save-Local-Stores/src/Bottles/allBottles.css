@@ -1,0 +1,38 @@
+.BottlesContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+}
+
+.BottleContain {
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+.BottleContain img {
+  width: 100%;
+}
+
+.Button {
+  width: 100%;
+  padding: 15px;
+  /* margin-top: 10px; */
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  background-color: #aedfcf;
+}
+
+.PurchaseProducts {
+  padding: 20px;
+  background-color: teal;
+  font-size: large;
+  font-weight: bolder;
+  border-radius: 15px;
+}
+
+.ProductsCountNumber {
+  font-size: x-large;
+  color: tomato;
+}
