@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Membership",
+    "price": 30,
+    "duration": "per month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 group class per week"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Standard Membership",
+    "price": 50,
+    "duration": "per month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "3 group classes per week",
+      "1 personal training session per month",
+      "Access to sauna"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Premium Membership",
+    "price": 80,
+    "duration": "per month",
+    "features": [
+      "24/7 access to gym equipment",
+      "Locker room with personal lockers",
+      "Unlimited group classes",
+      "4 personal training sessions per month",
+      "Access to sauna and steam room",
+      "Priority support"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Annual Membership",
+    "price": 500,
+    "duration": "per year",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Unlimited group classes",
+      "12 personal training sessions per year",
+      "Access to sauna, steam room, and swimming pool",
+      "Free nutritional consultation"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Couples Membership",
+    "price": 90,
+    "duration": "per month",
+    "features": [
+      "Access for two adults",
+      "Access to gym equipment",
+      "Locker room access",
+      "3 group classes per week per person",
+      "2 personal training sessions per month",
+      "Access to sauna and steam room"
+    ]
+  }
+]
